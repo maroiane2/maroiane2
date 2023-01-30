@@ -6,7 +6,7 @@
 
 <div>
   
-  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+  <img width="400px" align="right" src="https://i.pinimg.com/236x/c3/a2/9b/c3a29bc1cdf5501d3bc075c083bc66a2.jpg" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🧐 Studying for the AWS Solutions Associate exam.</li>

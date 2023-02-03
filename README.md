@@ -6,7 +6,7 @@
 
 <div>
   
-  <img width="400px" align="right" src="https://i.pinimg.com/236x/c3/a2/9b/c3a29bc1cdf5501d3bc075c083bc66a2.jpg" />
+  <img width="300px" align="right" src="https://i.pinimg.com/236x/c3/a2/9b/c3a29bc1cdf5501d3bc075c083bc66a2.jpg" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🧐 I'm currently working on web development.</li>
@@ -21,8 +21,10 @@
 
 </br>
 </br>
-</br>
-</br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/maroiane2/count.svg" />
+</p>
 </br>
 </br>
 

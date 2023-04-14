@@ -14,7 +14,7 @@
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/maroiane2">my portfolio website</a>.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/devops-code-265b6a263/">LinkedIn</a>.</li>
     <li>📙 Check out my <a href="#">resume</a>.</li>
-    <li>🎉 Fun Fact: I hate tomatoes.</li>
+    <li>🎉 Fun Fact: I hate tomatoes.😁</li>
   </ul>
 </div>
 

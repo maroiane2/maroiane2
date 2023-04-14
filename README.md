@@ -6,7 +6,7 @@
 
 <div>
   
-  <img width="300px" align="right" src="https://i.pinimg.com/236x/f8/df/e8/f8dfe814bf91c313312084e7568120ab.jpg" />
+  <img width="300px" align="right" src="https://i.pinimg.com/236x/e1/cc/4d/e1cc4d6ab1367daf7adca214d60fcb12.jpg" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🧐 I'm currently working on web development.</li>

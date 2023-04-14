@@ -6,7 +6,7 @@
 
 <div>
   
-  <img width="300px" align="right" src="blob:https://web.whatsapp.com/4d46b3c5-0424-4288-8453-241201aad207" />
+  <img width="300px" align="right" src="https://web.whatsapp.com/4d46b3c5-0424-4288-8453-241201aad207" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🧐 I'm currently working on web development.</li>

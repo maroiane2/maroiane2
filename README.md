@@ -28,3 +28,4 @@
 </br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maroiane2&theme=radical)
+  <img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maroiane2&layout=compact" />

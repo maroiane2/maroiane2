@@ -6,7 +6,7 @@
 
 <div>
   
-  <img width="300px" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7-NlBxO4X_kmNWxnUtSguqujHSi7EuiEgnob0vWAoEBRRM6Vwvi7SCpqbBWXjs6al1Jo&usqp=CAU" />
+  <img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaFerreiraRibeiro&layout=compact" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🧐 I'm currently working on web development.</li>

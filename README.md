@@ -13,7 +13,7 @@
     <li>🧐 I'm currently working on <strong>web development</strong>.</li>
     <li>🍃 I'm currently learning <strong>full-stack development</strong>.</li>
     <li>👨‍💻 Most of my projects are available on my <a href="https://itsW0LFIX.github.io/My-site-Web" target="_blank">portfolio website</a>. (Under development)</li>
-    <li>📝 I am often active on <a href="https://www.linkedin.com/in/devops-code-265b6a263/" target="_blank">LinkedIn</a>.</li>
+    <li>📝 I am often active on <a href="https://discord.com/users/981675224795860994" target="_blank">Discord</a> or here <a href="https://discord.com/users/1019544819216961577" target="_blank">Discord</a></li>
     <li>📙 Check out my <a href="#">resume</a>.</li>
     <li>🎉 Fun Fact: I <em>hate tomatoes</em>. 😁</li>
   </ul>

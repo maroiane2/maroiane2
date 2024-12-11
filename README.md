@@ -7,9 +7,8 @@
 ---
 
 <div>
+<h2>⚡️ A Few Quick Facts</h2>
   <img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsW0LFIX&layout=compact&theme=radical" alt="Top Languages" />
-
-  <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🧐 I'm currently working on <strong>web development</strong>.</li>
     <li>🍃 I'm currently learning <strong>full-stack development</strong>.</li>

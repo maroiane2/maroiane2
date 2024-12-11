@@ -33,9 +33,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsW0LFIX&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
 </div>
-
----
-
-<div align="center">
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsw0lfix&theme=dracula" alt="itsw0lfix" /></a> </p>
-</div>

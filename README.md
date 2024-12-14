@@ -25,6 +25,7 @@
   <p>
     <strong>Visitor Count</strong><br>
     <img src="https://profile-counter.glitch.me/maroiane2/count.svg" alt="Visitor Count" />
+    <!-- <p align="center"><img src="https://count.getloli.com/get/@:itsW0LFIX" alt=":itsW0LFIX" /></p> -->
   </p>
 </div>
 

@@ -30,7 +30,10 @@
 </div>
 
 ---
+<details>
+  <summary><strong>More info..</strong></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=itsW0LFIX&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
+  </div>
+</details>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsW0LFIX&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
-</div>
